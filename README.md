@@ -1,6 +1,6 @@
 Demo available at https://lorenzogatto.github.io/GAPsolvers/index.html
 
-#### Metaheuristics for the generalized assignment problem written in Javascript.
+#### Metaheuristics for the generalized assignment problem written in JavaScript.
 
 Implemented metaheuristics are:
 - Simulated annealing
